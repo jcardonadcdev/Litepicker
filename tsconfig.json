@@ -1,7 +1,7 @@
 {
   "compilerOptions": {
     "outDir": "./dist/js",
-    "module": "commonjs",
+    "module": "amd",
     "target": "ES5",
     "declaration": true,
     "esModuleInterop": true,
